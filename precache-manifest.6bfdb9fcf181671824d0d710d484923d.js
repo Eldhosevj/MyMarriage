@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/media/MAP.71c80642.png"
   },
   {
-    "revision": "5b33924751b3cc367508f1b5b12dc023",
+    "revision": "8880db73cb640d7ebab7986fc9422e42",
     "url": "/index.html"
   }
 ];
